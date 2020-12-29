@@ -28,7 +28,7 @@ const Research = () => {
             <p>
               Broadly, I’m interested in studying autobiographical memory and aging.
               One major project I’ve been working on is the development and validation
-              of a smartphone app that leverages principles from cognitive neuroscience
+              of HippoCamera, a smartphone app that leverages principles from cognitive neuroscience
               to improve memory for events from our day-to-day lives. You can read
               more about our work over at <a href="https://www.theglobeandmail.com/canada/article-toronto-teams-hippocamera-a-high-tech-memory-aid-for-alzheimers/" className="font-extrabold text-custom-red hover:underline">The Globe and Mail</a>
               , <a href="https://www.ctvnews.ca/sci-tech/how-smartphone-technology-is-being-used-to-combat-memory-loss-1.4486191" className="font-extrabold text-custom-red hover:underline">CTV</a>

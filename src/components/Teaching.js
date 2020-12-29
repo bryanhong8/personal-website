@@ -16,7 +16,7 @@ const Teaching = () => {
           <div>
             <p>
               I love having the opportunity to share my knowledge with others and
-              equipping students with new skills. I have developed materials for and
+              equip students with new skills. I have developed materials for and
               taught <a href="https://fas.calendar.utoronto.ca/course/psy201h1" className="font-extrabold text-custom-blue hover:underline">PSY201 (Statistics I)</a>, an
               introductory statistics course at the University of Toronto. I have over four years
               of experience as a teaching assistant across eight different undergraduate

@@ -19,10 +19,10 @@ const Other = () => {
             <div className="flex items-start justify-between mb-2">
               <p className="pr-6 font-semibold">→</p>
               <p>
-                This website was made with Gatsby and styled with Tailwind CSS. The design
+                This website was made with Gatsby, styled with Tailwind CSS and deployed with Netlify. The design
                 is loosely inspired by <a href="http://www.studiowyse.com/all-work/the-grid" className="font-extrabold text-custom-orange hover:underline">The Grid</a>, a
                 now-discontinued weekly Toronto newspaper. You can check out the
-                source code for the site <a href="/" className="font-extrabold text-custom-orange hover:underline">here</a>!
+                source code for the site <a href="https://github.com/bryanhong8/personal-website" className="font-extrabold text-custom-orange hover:underline">here</a>!
               </p>
             </div>
             <div className="flex items-start justify-between">
