@@ -194,4 +194,5 @@
    similar to above for each pdf.
 
    Don't forget to make a 404 page and set up the favicon. SEO component is pretty
-   much the same one from the default Gatsby starter.
+   much the same one from the default Gatsby starter. For analytics, using the
+   process from [here](https://aiki-developer.com/blog/gatsby-google-analytics).
